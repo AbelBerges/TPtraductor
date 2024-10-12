@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTraductor</string>
+    <string name="textEsp">Palabra en Español</string>
+    <string name="botonTraducir">Traducir</string>
+    <string name="btonVovler">Volver</string>
+    <string name="textIngles">English</string>
+</resources>
